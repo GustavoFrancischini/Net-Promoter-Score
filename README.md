@@ -5,5 +5,5 @@ Pode ser aprimorado com outras técnicas de inteligência artificial. </p>
 <img src="nps.png">
 
 <p align="center">
-  <a href="net-promoter-score.ipynb">Acesse-o clicando aqui!k</a>
+  <a href="net-promoter-score.ipynb">Acesse-o clicando aqui!</a>
 </p>
