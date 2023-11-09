@@ -4,4 +4,4 @@ Pode ser aprimorado com outras técnicas de inteligência artificial. </p>
 
 <img src="nps.png">
 
-<p align="center"> [Visualize-o aqui!](net-promoter-score.ipynb) </p>
+<p align="center"> [Link para Meu Notebook](net-promoter-score.ipynb) </p>
