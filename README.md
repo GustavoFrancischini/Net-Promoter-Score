@@ -1,2 +1,3 @@
-# net-promoter-score
-The NPS is a method of using a single survey question to gauge customer satisfaction with a product. It measures the loyalty of a company's customer base with a score. It can be bettered with other tecniques of AI.
+### Net Promoter Score
+O NPS é um método que utiliza uma única pergunta em uma pesquisa para medir a satisfação do cliente com um produto. Ele avalia a fidelidade da base de clientes de uma empresa por meio de uma pontuação. 
+Pode ser aprimorado com outras técnicas de inteligência artificial.
